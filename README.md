@@ -1,7 +1,7 @@
 # Active-Directory
 Using Azure to create an Active Directory
-# osticket-installation
-19 Simple steps to install osTicket successfully.
+# Active Directory installation
+Installing Active Directory successfully.
 <p align="center">
 <img src=""/>
 </p>
