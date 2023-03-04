@@ -3,7 +3,7 @@ Using Azure to create an Active Directory
 # Active Directory installation
 Installing Active Directory successfully.
 <p align="center">
-<img src=""/>
+<img src="https://i.imgur.com/QXztsRm.png"/>
 </p>
 
 <h1>Active Directory Set Up.</h1>
