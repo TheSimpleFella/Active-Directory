@@ -51,9 +51,9 @@ Changed Domain Controller's IP config to static.
 <br />
 
 <p>
-<img src="https://i.imgur.com/Ir8MDn3.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/gQgBkNs.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
-Changed Domain Controller's IP config to static.
+Installed ADDS on server.
 <p>
 </p>
 <br />
