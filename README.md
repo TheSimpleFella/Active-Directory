@@ -35,7 +35,8 @@ Created a virtual machine.
 <br />
 
 <p>
-<img src="g" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/LK4qs5i.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+ Created a virtual machine for the Domain Controller to deploy ADDS (Active Directory Domain Services). 
 </p>
 <p>
 </p>
