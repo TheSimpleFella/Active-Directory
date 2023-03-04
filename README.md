@@ -27,8 +27,9 @@ In this project, I used Azure to create two virtual machines. I made sure to dou
 <h2>Screenshots of Steps</h2>
 
 <p>
-<img src="" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/TKKlyiu.png" width="80%" alt="Disk Sanitization Steps"/>
 </p>
+Created a virtual machine.
 <p>
 </p>
 <br />
