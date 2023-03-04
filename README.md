@@ -51,6 +51,14 @@ Changed Domain Controller's IP config to static.
 <br />
 
 <p>
+<img src="https://i.imgur.com/P6BFIxN.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+Checked Network Topology to confirm connection.
+<p>
+</p>
+<br />
+
+<p>
 <img src="https://i.imgur.com/gQgBkNs.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 Installed ADDS on server.
@@ -62,6 +70,14 @@ Installed ADDS on server.
 <img src="https://i.imgur.com/D0E8gUM.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 Added new forest.
+<p>
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/dHJYEKM.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+Active Directory succesfully installed!
 <p>
 </p>
 <br />
