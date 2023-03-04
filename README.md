@@ -22,7 +22,7 @@ Installing Active Directory successfully.
 - Windows 11 PC
 
 <h2>Screenshots for my Azure Active Directory project.</h2>
-In this project, I used Azure to create two virtual machines.I made sure to double check my work because there were many steps.Below are screen shots along with a brief description of how I set up the entire network.
+In this project, I used Azure to create two virtual machines. I made sure to double check my work because there were many steps. Below are screen shots along with a brief description of how I set up the entire network.
 
 <h2>Screenshots of Steps</h2>
 
