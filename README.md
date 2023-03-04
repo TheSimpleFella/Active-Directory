@@ -19,6 +19,7 @@ Installing Active Directory successfully.
 <h2>Operating Systems Used </h2>
 
 - Windows 10</b> (21H2)
+- Windows 11 PC
 
 <h2>Screenshots for my Azure Active Directory project.</h2>
 
