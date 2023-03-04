@@ -57,3 +57,11 @@ Installed ADDS on server.
 <p>
 </p>
 <br />
+
+<p>
+<img src="https://i.imgur.com/D0E8gUM.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+Added new forest.
+<p>
+</p>
+<br />
