@@ -51,7 +51,7 @@ Changed Domain Controller's IP config to static.
 <br />
 
 <p>
-<img src="https://i.imgur.com/P6BFIxN.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://user-images.githubusercontent.com/126700220/224847021-e831652d-a9a7-4995-ad7a-480d3837c3fa.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 Checked Network Topology to confirm connection.
 <p>
@@ -67,7 +67,7 @@ Installed ADDS on server.
 <br />
 
 <p>
-<img src="https://i.imgur.com/D0E8gUM.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://user-images.githubusercontent.com/126700220/224847132-2e645060-5921-4863-9b7d-ec346f4d746f.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 Added new forest.
 <p>
