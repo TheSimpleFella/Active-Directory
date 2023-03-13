@@ -75,7 +75,7 @@ Added new forest.
 <br />
 
 <p>
-<img src="https://i.imgur.com/dHJYEKM.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://user-images.githubusercontent.com/126700220/224847199-7de30355-6740-4a36-bae0-27fa29ff5c58.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 Active Directory succesfully installed!
 <p>
